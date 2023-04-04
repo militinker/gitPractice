@@ -4,5 +4,6 @@ public class Main {
         Country country=new Country();
         country.country="Serbia";
         country.state="vojvodina";
+        country.state="sumadija";
     }
 }
